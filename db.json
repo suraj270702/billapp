@@ -1,0 +1,399 @@
+{
+  "products": [
+    {
+      "id": 209,
+      "display_id": 8,
+      "owner": 1079,
+      "name": "New Product",
+      "category": "The god of War",
+      "characteristics": "New Product Characteristics",
+      "features": "",
+      "brand": "New Product Brand",
+      "sku": [
+        {
+          "id": 248,
+          "selling_price": 54,
+          "max_retail_price": 44,
+          "customer": {
+            "id": 11908,
+            "name": "Ram",
+            "color": [
+              182,
+              73,
+              99
+            ],
+            "email": "jesus_christ@church.com",
+            "pincode": "Mumbai",
+            "location_name": "Mumbai, Maharashtra, India",
+            "type": "C",
+            "profile_pic": null,
+            "gst": ""
+          },
+          "amount": 33,
+          "unit": "kg",
+          "quantity_in_inventory": 0,
+          "product": 209
+        },
+        {
+          "id": 247,
+          "selling_price": 32,
+          "max_retail_price": 32,
+          "amount": 33,
+          "unit": "kg",
+          "quantity_in_inventory": 0,
+          "product": 209
+        },
+        {
+          "id": 246,
+          "selling_price": 23,
+          "max_retail_price": 21,
+          "amount": 22,
+          "unit": "kg",
+          "quantity_in_inventory": 1,
+          "product": 209
+        }
+      ],
+      "updated_on": "2024-05-24T12:46:41.995873Z",
+      "adding_date": "2024-05-24T12:46:41.995828Z"
+    },
+    {
+      "id": 210,
+      "display_id": 9,
+      "owner": 1080,
+      "name": "Product 2",
+      "category": "Adventure",
+      "characteristics": "Product 2 Characteristics",
+      "features": "Feature 1, Feature 2",
+      "brand": "Brand B",
+      "sku": [
+        {
+          "id": 249,
+          "selling_price": 65,
+          "max_retail_price": 60,
+          "customer": {
+            "id": 11909,
+            "name": "Shyam",
+            "color": [
+              100,
+              150,
+              200
+            ],
+            "email": "shyam@example.com",
+            "pincode": "Delhi",
+            "location_name": "Delhi, India",
+            "type": "B",
+            "profile_pic": null,
+            "gst": ""
+          },
+          "amount": 50,
+          "unit": "kg",
+          "quantity_in_inventory": 5,
+          "product": 210
+        }
+      ],
+      "updated_on": "2024-05-24T12:46:41.995873Z",
+      "adding_date": "2024-05-24T12:46:41.995828Z"
+    },
+    {
+      "id": 211,
+      "display_id": 10,
+      "owner": 1081,
+      "name": "Product 3",
+      "category": "Sports",
+      "characteristics": "Product 3 Characteristics",
+      "features": "Feature A, Feature B",
+      "brand": "Brand C",
+      "sku": [
+        {
+          "id": 250,
+          "selling_price": 75,
+          "max_retail_price": 70,
+          "customer": {
+            "id": 11910,
+            "name": "Hari",
+            "color": [
+              50,
+              100,
+              150
+            ],
+            "email": "hari@example.com",
+            "pincode": "Kolkata",
+            "location_name": "Kolkata, India",
+            "type": "A",
+            "profile_pic": null,
+            "gst": ""
+          },
+          "amount": 60,
+          "unit": "kg",
+          "quantity_in_inventory": 10,
+          "product": 211
+        }
+      ],
+      "updated_on": "2024-05-24T12:46:41.995873Z",
+      "adding_date": "2024-05-24T12:46:41.995828Z"
+    },
+    {
+      "id": 212,
+      "display_id": 11,
+      "owner": 1082,
+      "name": "Product 4",
+      "category": "Electronics",
+      "characteristics": "Product 4 Characteristics",
+      "features": "Feature X, Feature Y",
+      "brand": "Brand D",
+      "sku": [
+        {
+          "id": 251,
+          "selling_price": 85,
+          "max_retail_price": 80,
+          "customer": {
+            "id": 11911,
+            "name": "John",
+            "color": [
+              200,
+              100,
+              50
+            ],
+            "email": "john@example.com",
+            "pincode": "Bangalore",
+            "location_name": "Bangalore, India",
+            "type": "D",
+            "profile_pic": null,
+            "gst": ""
+          },
+          "amount": 70,
+          "unit": "kg",
+          "quantity_in_inventory": 15,
+          "product": 212
+        }
+      ],
+      "updated_on": "2024-05-24T12:46:41.995873Z",
+      "adding_date": "2024-05-24T12:46:41.995828Z"
+    },
+    {
+      "id": 213,
+      "display_id": 12,
+      "owner": 1083,
+      "name": "Product 5",
+      "category": "Fashion",
+      "characteristics": "Product 5 Characteristics",
+      "features": "Feature M, Feature N",
+      "brand": "Brand E",
+      "sku": [
+        {
+          "id": 252,
+          "selling_price": 95,
+          "max_retail_price": 90,
+          "customer": {
+            "id": 11912,
+            "name": "Doe",
+            "color": [
+              123,
+              234,
+              45
+            ],
+            "email": "doe@example.com",
+            "pincode": "Chennai",
+            "location_name": "Chennai, India",
+            "type": "E",
+            "profile_pic": null,
+            "gst": ""
+          },
+          "amount": 80,
+          "unit": "kg",
+          "quantity_in_inventory": 20,
+          "product": 213
+        }
+      ],
+      "updated_on": "2024-05-24T12:46:41.995873Z",
+      "adding_date": "2024-05-24T12:46:41.995828Z"
+    }
+  ],
+  "customers": [
+    {
+      "id": 11908,
+      "name": "Ram",
+      "color": [
+        182,
+        73,
+        99
+      ],
+      "email": "ram@example.com",
+      "pincode": "400001",
+      "location_name": "Mumbai, Maharashtra, India",
+      "type": "C",
+      "profile_pic": null,
+      "gst": ""
+    },
+    {
+      "id": 11909,
+      "name": "Shyam",
+      "color": [
+        255,
+        0,
+        0
+      ],
+      "email": "shyam@example.com",
+      "pincode": "400002",
+      "location_name": "Mumbai, Maharashtra, India",
+      "type": "C",
+      "profile_pic": null,
+      "gst": ""
+    },
+    {
+      "id": 11910,
+      "name": "Sita",
+      "color": [
+        0,
+        255,
+        0
+      ],
+      "email": "sita@example.com",
+      "pincode": "400003",
+      "location_name": "Mumbai, Maharashtra, India",
+      "type": "C",
+      "profile_pic": null,
+      "gst": ""
+    },
+    {
+      "id": 11911,
+      "name": "Gita",
+      "color": [
+        0,
+        0,
+        255
+      ],
+      "email": "gita@example.com",
+      "pincode": "400004",
+      "location_name": "Mumbai, Maharashtra, India",
+      "type": "C",
+      "profile_pic": null,
+      "gst": ""
+    },
+    {
+      "id": 11912,
+      "name": "Krishna",
+      "color": [
+        255,
+        255,
+        0
+      ],
+      "email": "krishna@example.com",
+      "pincode": "400005",
+      "location_name": "Mumbai, Maharashtra, India",
+      "type": "C",
+      "profile_pic": null,
+      "gst": ""
+    }
+  ],
+  "orders": [
+    {
+      "id": "GQgzRSRHUz",
+      "customer_id": 11911,
+      "items": [
+        {
+          "price": 70,
+          "quantity": 10,
+          "sku_id": 250
+        }
+      ],
+      "paid": false,
+      "invoice_no": "Invoice AiqJ3qP6XO",
+      "invoice_date": "2024-05-31T15:44:00.193Z",
+      "status": "active"
+    },
+    {
+      "id": "CFjONfCjjI",
+      "customer_id": 11910,
+      "items": [
+        {
+          "price": 21,
+          "quantity": 1,
+          "sku_id": 246
+        }
+      ],
+      "paid": false,
+      "invoice_no": "Invoice sAOuBnwu3j",
+      "invoice_date": "2024-05-31T16:22:33.030Z",
+      "status": "active"
+    },
+    {
+      "id": "U9GQOaOnEg",
+      "customer_id": 11912,
+      "items": [
+        {
+          "price": 90,
+          "quantity": 20,
+          "sku_id": 252
+        }
+      ],
+      "paid": false,
+      "invoice_no": "Invoice HQ2jvWwKNF",
+      "invoice_date": "2024-05-31T16:35:31.153Z",
+      "status": "active"
+    },
+    {
+      "id": "j81BpIN3vz",
+      "customer_id": 11909,
+      "items": [
+        {
+          "price": 70,
+          "quantity": 7,
+          "sku_id": 250
+        }
+      ],
+      "paid": false,
+      "invoice_no": "Invoice zSCliyWru1",
+      "invoice_date": "2024-06-01T00:38:01.354Z",
+      "status": "complete",
+      "products": [
+        {
+          "label": "Product 3",
+          "value": 211
+        }
+      ]
+    },
+    {
+      "id": "Gcwen51tuC",
+      "customer_id": 11908,
+      "items": [
+        {
+          "price": 90,
+          "quantity": 10,
+          "sku_id": 252
+        }
+      ],
+      "paid": false,
+      "invoice_no": "Invoice msyhWFWZEQ",
+      "invoice_date": "2024-06-01T06:29:16.602Z",
+      "status": "active",
+      "products": [
+        {
+          "label": "Product 5",
+          "value": 213
+        }
+      ]
+    },
+    {
+      "id": "9ROuNI5gBm",
+      "customer_id": 11909,
+      "items": [
+        {
+          "price": 70,
+          "quantity": 3,
+          "sku_id": 250
+        }
+      ],
+      "paid": false,
+      "invoice_no": "Invoice hUujzFcK5p",
+      "invoice_date": "2024-06-01T10:01:53.646Z",
+      "status": "complete",
+      "products": [
+        {
+          "label": "Product 3",
+          "value": 211
+        }
+      ]
+    }
+  ]
+}
