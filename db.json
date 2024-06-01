@@ -287,51 +287,7 @@
     }
   ],
   "orders": [
-    {
-      "id": "GQgzRSRHUz",
-      "customer_id": 11911,
-      "items": [
-        {
-          "price": 70,
-          "quantity": 10,
-          "sku_id": 250
-        }
-      ],
-      "paid": false,
-      "invoice_no": "Invoice AiqJ3qP6XO",
-      "invoice_date": "2024-05-31T15:44:00.193Z",
-      "status": "active"
-    },
-    {
-      "id": "CFjONfCjjI",
-      "customer_id": 11910,
-      "items": [
-        {
-          "price": 21,
-          "quantity": 1,
-          "sku_id": 246
-        }
-      ],
-      "paid": false,
-      "invoice_no": "Invoice sAOuBnwu3j",
-      "invoice_date": "2024-05-31T16:22:33.030Z",
-      "status": "active"
-    },
-    {
-      "id": "U9GQOaOnEg",
-      "customer_id": 11912,
-      "items": [
-        {
-          "price": 90,
-          "quantity": 20,
-          "sku_id": 252
-        }
-      ],
-      "paid": false,
-      "invoice_no": "Invoice HQ2jvWwKNF",
-      "invoice_date": "2024-05-31T16:35:31.153Z",
-      "status": "active"
-    },
+   
     {
       "id": "j81BpIN3vz",
       "customer_id": 11909,
@@ -392,6 +348,36 @@
         {
           "label": "Product 3",
           "value": 211
+        }
+      ]
+    },
+    {
+      "id": "ilrFl6Jo9O",
+      "customer_id": 11911,
+      "items": [
+        {
+          "price": 90,
+          "quantity": 10,
+          "sku_id": 252
+        },
+        {
+          "price": 60,
+          "quantity": 3,
+          "sku_id": 249
+        }
+      ],
+      "paid": false,
+      "invoice_no": "Invoice NZp3AYc80g",
+      "invoice_date": "2024-06-01T10:07:29.309Z",
+      "status": "complete",
+      "products": [
+        {
+          "label": "Product 5",
+          "value": 213
+        },
+        {
+          "label": "Product 2",
+          "value": 210
         }
       ]
     }
